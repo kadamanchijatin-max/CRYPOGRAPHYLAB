@@ -1,0 +1,7 @@
+Drone registered: dr56
+Drone dr56: location updated to mumbai
+Drone dr56: takeoff
+Drone dr56: command executed - takeoff
+Drone dr56: 2 waypoint(s) uploaded
+Drone dr56: mission execution requested
+Drone dr56: telemetry displayed
