@@ -1,0 +1,32 @@
+Hyktyimsx Lyikym Yfikxhmwgf 35
+2.3 Swdwmpmwgfl gt Hyktyim Lyikyix
+Vy yfuyu mey hkybwgnl lyimwgf ox fgmwfr lgdy ukpvopial gt mey gfy-mwdy
+hpu yfikxhmwgf lieydy. Eyky, vy legv mepm meyly ukpvopial pky fgm lhyiwtwi
+mg mepm lieydy, onm pky wflmypu wfeykyfm swdwmpmwgfl gt hyktyim lyikyix. Lhyiwt-
+wipssx, vy hkgby mepm pfx hyktyimsx lyikym yfikxhmwgf lieydy dnlm epby p ayx
+lhpiy mepm wl pm syplm pl spkry pl mey dyllpry lhpiy. Wt pss ayxl pky mey lpdy
+syfrme, pfu mey dyllpry lhpiy igflwlml gt pss lmkwfrl gt lgdy twcyu syfrme, mewl
+wdhswyl mepm mey ayx wl pm syplm pl sgfr pl mey dyllpry. Wf hpkmwinspk, mey ayx
+syfrme gt mey gfy-mwdy hpu wl ghmwdps. (Mey gmeyk swdwmpmwgf—fpdysx, mepm
+mey ayx ipf oy nlyu gfsx gfiy—wl pslg wfeykyfm wt hyktyim lyikyix wl kyjnwkyu;
+lyy Ycykiwly 2.13.)
+MEYGKYD 2.10 Wt (Ryf, Yfi, Uyi) wl p hyktyimsx lyikym yfikxhmwgf lieydy
+vwme dyllpry lhpiy D pfu ayx lhpiy A, meyf |A| ≥ |D|.
+HKGGT Vy legv mepm wt |A| < |D| meyf mey lieydy ipffgm oy hyktyimsx
+lyikym. Pllndy |A| < |D|. Igflwuyk mey nfwtgkd uwlmkwonmwgf gbyk D pfu sym
+i ∈ I oy p iwheykmycm mepm giinkl vwme fgf-zykg hkgopowswmx. Sym D(i) oy mey
+lym gt pss hgllwosy dyllpryl mepm pky hgllwosy uyikxhmwgfl gt i; mepm wl
+D(i) uyt
+= {d | d = Uyia(i) tgk lgdy a ∈ A}.
+Isypksx |D(i)| ≤ |A|. (Kyipss mepm vy dpx pllndy Uyi wl uymykdwfwlmwi.) Wt
+|A| < |D|, meyky wl lgdy d′ ∈ D lnie mepm d′ 6 ∈ D(i). Onm meyf
+Hk[D = d′ | I = i] = 0 6 = Hk[D = d′],
+pfu lg mey lieydy wl fgm hyktyimsx lyikym.
+Hyktyim lyikyix vwme legkmyk ayxl? Mey pogby meygkyd legvl pf wfeykyfm
+swdwmpmwgf gt lieydyl mepm piewyby hyktyim lyikyix. Ybyf lg, wfuwbwunpsl gi-
+iplwgfpssx ispwd meyx epby uybysghyu p kpuwipssx fyv yfikxhmwgf lieydy mepm
+wl “nfokypaposy” pfu piewybyl mey lyinkwmx gt mey gfy-mwdy hpu vwmegnm nlwfr
+ayxl pl sgfr pl vepm wl oywfr yfikxhmyu. Mey pogby hkggt uydgflmkpmyl mepm
+lnie ispwdl ipffgm oy mkny; pfxgfy dpawfr lnie ispwdl ywmeyk afgvl bykx
+swmmsy pognm ikxhmgrkphex gk wl ospmpfmsx sxwfr.
+
