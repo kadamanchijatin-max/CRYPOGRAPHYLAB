@@ -1,0 +1,3 @@
+Generator,Data Size (Bytes),Distinct Byte Values,One-Bit Percentage,Byte Lag-1 Correlation,Bit Lag-1 Correlation
+Linux /dev/urandom,1048576,256,49.9996,-0.000738,-0.000138
+OpenSSL rand,1048576,256,49.9722,0.001983,0.000142
