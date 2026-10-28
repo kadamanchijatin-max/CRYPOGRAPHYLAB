@@ -1,0 +1,4 @@
+Generator,Observed Runs,Expected Runs,Z-Score,P-Value,Conclusion
+Linux /dev/urandom,4192252,4194304.81157279,-1.4175362649885215,0.1563261993506125,Do not reject runs-test null hypothesis
+OpenSSL rand,4194651,4194304.957541466,0.2389540879585856,0.8111411840017803,Do not reject runs-test null hypothesis
+Windows CNG,4192501,4194304.726013184,-1.2455342330678787,0.2129354400946355,Do not reject runs-test null hypothesis
