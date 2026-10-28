@@ -1,0 +1,4 @@
+Generator,Ones,Total Bits,One-Bit Percentage,P-Value,Conclusion
+Linux /dev/urandom,4195193,8388608,50.010597705841064,0.5395197226728883,Do not reject unbiased-bit model
+OpenSSL rand,4193882,8388608,49.99496936798096,0.7710053825267781,Do not reject unbiased-bit model
+Windows CNG,4193232,8388608,49.987220764160156,0.4593563409675186,Do not reject unbiased-bit model

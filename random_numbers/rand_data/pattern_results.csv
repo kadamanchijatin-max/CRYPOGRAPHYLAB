@@ -1,0 +1,4 @@
+Generator,Repeated Byte Occurrences,Distinct Byte Values,Distinct 16-Bit Words,Repeated 16-Bit Word Occurrences
+Linux /dev/urandom,1048320,256,65536,983039
+OpenSSL rand,1048320,256,65536,983039
+Windows CNG,1048320,256,65536,983039

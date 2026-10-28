@@ -1,0 +1,4 @@
+Generator,Chi-Square Statistic,Degrees of Freedom,P-Value,Conclusion
+Linux /dev/urandom,244.34765625,255,0.6732108192038031,Do not reject uniformity
+OpenSSL rand,224.5556640625,255,0.9155882647789109,Do not reject uniformity
+Windows CNG,255.98388671875,255,0.4708919554086934,Do not reject uniformity
